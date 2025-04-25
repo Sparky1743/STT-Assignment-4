@@ -1,0 +1,10 @@
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-4\AlarmApp\AlarmApp\obj\Debug\AlarmApp.csproj.AssemblyReference.cache
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-4\AlarmApp\AlarmApp\obj\Debug\AlarmApp.Properties.Resources.resources
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-4\AlarmApp\AlarmApp\obj\Debug\AlarmApp.csproj.GenerateResource.cache
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-4\AlarmApp\AlarmApp\obj\Debug\AlarmApp.csproj.CoreCompileInputs.cache
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-4\AlarmApp\AlarmApp\bin\Debug\AlarmApp.exe.config
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-4\AlarmApp\AlarmApp\bin\Debug\AlarmApp.exe
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-4\AlarmApp\AlarmApp\bin\Debug\AlarmApp.pdb
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-4\AlarmApp\AlarmApp\obj\Debug\AlarmApp.Form1.resources
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-4\AlarmApp\AlarmApp\obj\Debug\AlarmApp.exe
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-4\AlarmApp\AlarmApp\obj\Debug\AlarmApp.pdb
